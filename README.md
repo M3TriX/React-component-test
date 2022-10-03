@@ -27,4 +27,6 @@ See the section about [deployment](https://create-react-app.dev/docs/deployment/
 
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
+If you want to create a project vite, check out the [Vite guide](https://vitejs.dev/guide/).
+
 To learn React, check out the [React documentation](https://reactjs.org/).
